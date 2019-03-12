@@ -1,0 +1,28 @@
+﻿<projectDescription>
+	<id>1238637846607</id>
+	<name>~scenario</name>
+	<asVersion>0</asVersion>
+	<boundTemplate>file:///C|/Users/sorabh/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+	<classTemplate>file:///C|/Users/sorabh/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+	<classPath>.</classPath>
+	<rootURI>C:\Users\sorabh\Desktop\scenario</rootURI>
+	<flexSDK/>
+	<sources editable="false"/>
+	<libraries editable="false"/>
+	<externalLibraries editable="false"/>
+	<compileList editable="false">
+		<uri label="~scenario.fla">file:///C|/Users/sorabh/Desktop/scenario/~scenario.fla</uri>
+	</compileList>
+	<defaultApp>file:///C|/Users/sorabh/Desktop/scenario/~scenario.fla</defaultApp>
+	<recentFiles editable="false">
+		<uri label="ComponentShim.as">file:///C|/Users/sorabh/Desktop/scenario/fl/core/ComponentShim.as</uri>
+		<uri label="Discount_text_7.as">file:///C|/Users/sorabh/Desktop/scenario/scenario_fla/Discount_text_7.as</uri>
+		<uri label="MainTimeline.as">file:///C|/Users/sorabh/Desktop/scenario/scenario_fla/MainTimeline.as</uri>
+		<uri label="Price_6.as">file:///C|/Users/sorabh/Desktop/scenario/scenario_fla/Price_6.as</uri>
+		<uri label="Product_4.as">file:///C|/Users/sorabh/Desktop/scenario/scenario_fla/Product_4.as</uri>
+		<uri label="Product_text_5.as">file:///C|/Users/sorabh/Desktop/scenario/scenario_fla/Product_text_5.as</uri>
+		<uri label="Slogan_3.as">file:///C|/Users/sorabh/Desktop/scenario/scenario_fla/Slogan_3.as</uri>
+		<uri label="logo_1.as">file:///C|/Users/sorabh/Desktop/scenario/scenario_fla/logo_1.as</uri>
+	</recentFiles>
+	<locations editable="false"/>
+</projectDescription>

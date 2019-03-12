@@ -1,0 +1,80 @@
+<data>
+  <product>
+    <object name="background" type="picture">
+      <source>images/back1.jpg</source>
+    </object>
+    <object name="logo" type="picture">
+      <source>images/logo.jpg</source>
+    </object>
+    <object name="product" type="picture">
+      <source>images/product2.jpg</source>
+    </object>
+    <object name="promote" type="text">
+      <source><![CDATA[Here you can place the date of the promotion]]></source>
+    </object>
+    <object name="discount" type="text">
+      <source><![CDATA[- 20 %]]></source>
+    </object>
+    <object name="title" type="text">
+      <source><![CDATA[Product Title]]></source>
+    </object>
+    <object name="desc" type="text">
+      <source><![CDATA[Product description.<br/>Here you can describe your product.]]></source>
+    </object>
+    <object name="price" type="text">
+      <source><![CDATA[EURO 2,99]]></source>
+    </object>
+  </product>
+  <product>
+    <object name="background" type="picture">
+      <source>images/back.jpg</source>
+    </object>
+    <object name="logo" type="picture">
+      <source>images/logo.jpg</source>
+    </object>
+    <object name="product" type="picture">
+      <source>images/product1.jpg</source>
+    </object>
+    <object name="promote" type="text">
+      <source><![CDATA[Here you can place the date of the promotional fasd fasd fsad fsad sad fsad sfad df adfs asdf fad]]></source>
+    </object>
+    <object name="discount" type="text">
+      <source><![CDATA[- 20 %]]></source>
+    </object>
+    <object name="title" type="text">
+      <source><![CDATA[Product Title]]></source>
+    </object>
+    <object name="desc" type="text">
+      <source><![CDATA[Product description.<br/>Here you can describe your product.]]></source>
+    </object>
+    <object name="price" type="text">
+      <source><![CDATA[2,99 $]]></source>
+    </object>
+  </product>
+  <product>
+    <object name="background" type="picture">
+      <source>images/52f0209296269.jpg</source>
+    </object>
+    <object name="logo" type="picture">
+      <source>images/52f0209c0c965.jpg</source>
+    </object>
+    <object name="product" type="picture">
+      <source>images/52f020730898b.jpg</source>
+    </object>
+    <object name="promote" type="text">
+      <source><![CDATA[sdg sd ggsd]]></source>
+    </object>
+    <object name="discount" type="text">
+      <source><![CDATA[sd ]]></source>
+    </object>
+    <object name="title" type="text">
+      <source><![CDATA[ZCX zx C]]></source>
+    </object>
+    <object name="desc" type="text">
+      <source><![CDATA[vdsgsdgs fg]]></source>
+    </object>
+    <object name="price" type="text">
+      <source><![CDATA[sdg f]]></source>
+    </object>
+  </product>
+</data>
